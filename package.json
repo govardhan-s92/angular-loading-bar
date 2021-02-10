@@ -27,7 +27,7 @@
   },
   "homepage": "https://chieffancypants.github.io/angular-loading-bar",
   "devDependencies": {
-    "karma-jasmine": "^0.1.3",
+    "karma-jasmine": "^4.0.1",
     "karma-coffee-preprocessor": "^0.2.0",
     "karma-phantomjs-launcher": "^0.1.0",
     "karma": "~0.12.0",
